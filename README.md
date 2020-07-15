@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Fixing a bug in production](https://media.giphy.com/media/3oz8xVRKc3J6QVf95e/giphy.gif)](https://github.com/hearsilent)
 
 <!--
 **hearsilent/hearsilent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
